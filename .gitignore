@@ -1,0 +1,10 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Build directories
+/GenerateShortenedUrl/target/
+/RedirectShortenedUrl/target/
+
+# Logs and temporary files
+*.log
